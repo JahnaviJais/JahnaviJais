@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="mailto:jaiswaljahnavi0@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
-  <a href="https://linkedin.com/in/jahnavi-jaiswal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Darshita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+  <a href="https://linkedin.com/in/jahnavi-jaiswal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jahnavi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
   <a href="https://github.com/JahnaviJais" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
   <a href="https://your-portfolio-url.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-34D399?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
 </div>
