@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=630&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Jahnavi+Jaiswal+👋;Software+Developer💻+%7C+AI+Enthusiast+🤖;Exploring+AI+%2B+Full+Stack+Development" alt="Typing SVG" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JahnaviJais&label=Profile%20views&color=0e75b6&style=flat" alt="JahnaviJais" /> </p>
+
 ---
 
 ## 🧠 About Me 
@@ -53,6 +55,22 @@
 ---
 
 
+## 📈 GitHub Stats & Activity 📈
+
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviJais&layout=compact&theme=dracula&hide_border=true"  alt="JahnaviJais's Top Languages" />
+  
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com/?user=JahnaviJais&theme=dracula&hide_border=true" alt="JahnaviJais's GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JahnaviJais&theme=dracula&hide_border=true&area=true" alt="JahnaviJais's Activity Graph"/>
+</div>
+
+---
 
 
 ## 📬 Let's Connect
